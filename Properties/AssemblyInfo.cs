@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set di attributi. Modificare i valori di questi attributi per modificare le informazioni
 // associate a un assembly.
 [assembly: AssemblyTitle("Desktop Widgets")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Desktop Widgets Windows 10 style")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Marco Ceccon")]
 [assembly: AssemblyProduct("Desktop Widgets")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]

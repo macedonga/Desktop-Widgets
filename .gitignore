@@ -8,3 +8,7 @@
 *.resources
 *.CopyComplete
 *.exe
+*.lock
+.vs/Desktop Widgets/v16/.suo
+*.ide-shm
+*.ide-wal
