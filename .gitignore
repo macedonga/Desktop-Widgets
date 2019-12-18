@@ -1,0 +1,10 @@
+
+.editorconfig
+*.config
+*.pdb
+*.dll
+*.txt
+*.cache
+*.resources
+*.CopyComplete
+*.exe
